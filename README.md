@@ -1,7 +1,8 @@
 <h1 align="center">🚀 Sujay Kulkarni | Developer | Innovator | Legacy Builder 🚀</h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujayKulkarni-2211&theme=radical" alt="GitHub Streak" />
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SujayKulkarni-2211&theme=radical)
+
 </p>
 
 ## ⚡ About Me
