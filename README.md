@@ -61,6 +61,7 @@ I have built & explored quantum-based systems at an advanced level.
 _"I don't just aim to build software, I aim to build LEGACIES."_  
 _"Every project, every innovation is a step towards shaping the future."_  
 _"Love the feeling of catering to the user and the requirement!"_
+_
 _"Sleepless Nights, Countless fights, but then... with your might ,teams' tight and guru's guiding light; Enjoy the finale with the feelings right!"_
 
 ---
