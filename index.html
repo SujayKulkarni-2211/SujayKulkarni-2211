@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sujay Kulkarni | Developer | Innovator</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <style>
+        body {
+            background-color: #0a0a0a;
+            color: #fff;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            overflow: hidden;
+        }
+        .hero {
+            font-size: 3rem;
+            font-weight: bold;
+            margin-top: 10vh;
+            position: relative;
+            opacity: 0;
+        }
+        .subtext {
+            font-size: 1.5rem;
+            margin-top: 20px;
+            opacity: 0;
+        }
+        .icons {
+            margin-top: 30px;
+            font-size: 2rem;
+            opacity: 0;
+        }
+        .icons a {
+            margin: 0 15px;
+            color: #00eaff;
+            text-decoration: none;
+            transition: transform 0.3s ease-in-out;
+        }
+        .icons a:hover {
+            transform: scale(1.2);
+        }
+        .glow {
+            text-shadow: 0 0 20px #00eaff;
+        }
+        .floating {
+            position: absolute;
+            font-size: 5rem;
+            opacity: 0.2;
+        }
+    </style>
+</head>
+<body>
+    <div class="hero glow">SUJAY KULKARNI</div>
+    <div class="subtext">🚀 Developer | Innovator | Builder of Legacies</div>
+    <div class="icons">
+        <a href="https://github.com/SujayKulkarni-2211" target="_blank"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/in/sujay-kulkarni-51391b286/" target="_blank"><i class="fab fa-linkedin"></i></a>
+        <a href="mailto:sujaykulkarni2211@gmail.com"><i class="fas fa-envelope"></i></a>
+    </div>
+
+    <script>
+        gsap.to(".hero", { opacity: 1, y: -10, duration: 1.5, ease: "power2.out" });
+        gsap.to(".subtext", { opacity: 1, y: -10, duration: 2, ease: "power2.out", delay: 0.5 });
+        gsap.to(".icons", { opacity: 1, y: -10, duration: 2.5, ease: "power2.out", delay: 1 });
+        
+        function createFloatingText(content, left, top) {
+            const floatingText = document.createElement("div");
+            floatingText.className = "floating";
+            floatingText.innerHTML = content;
+            floatingText.style.left = left + "vw";
+            floatingText.style.top = top + "vh";
+            document.body.appendChild(floatingText);
+            gsap.to(floatingText, { y: -100, opacity: 0, duration: 5, ease: "power1.out", delay: Math.random() * 3, onComplete: () => floatingText.remove() });
+        }
+
+        setInterval(() => {
+            const phrases = [
+                "💻 Code Mastery", 
+                "🔥 AI & ML", 
+                "🌍 Web Development", 
+                "🎶 Music & Innovation", 
+                "🚀 Product Architect", 
+                "📜 Legacy Builder", 
+                "⚛️ Quantum Computing - The Future is Here!", 
+                "☕ Java - Power & Performance"
+            ];
+            createFloatingText(phrases[Math.floor(Math.random() * phrases.length)], Math.random() * 80 + 10, Math.random() * 80 + 10);
+        }, 2000);
+    </script>
+</body>
+</html>
