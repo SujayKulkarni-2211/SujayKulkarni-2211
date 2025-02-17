@@ -77,3 +77,20 @@ _"I don't just aim to build software, I aim to build LEGACIES."_
 _"Every project, every innovation is a step towards shaping the future."_  
 
 ---
+```css
+@keyframes glitch {
+  0% { text-shadow: -2px -2px 0px #ff00ff, 2px 2px 0px #00ffff; }
+  50% { text-shadow: 2px -2px 0px #ff00ff, -2px 2px 0px #00ffff; }
+  100% { text-shadow: -2px -2px 0px #ff00ff, 2px 2px 0px #00ffff; }
+}
+
+.glitch {
+  font-size: 3rem;
+  font-weight: bold;
+  animation: glitch 0.8s infinite alternate;
+  color: #fff;
+  background: linear-gradient(45deg, #ff00ff, #00ffff);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
