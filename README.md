@@ -1,14 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1220,100:0E4C92&text=Sujay%20V%20Kulkarni&fontSize=46&fontColor=E6EDF3&animation=twinkling&desc=AI%20Systems%20%7C%20Security%20%7C%20Research&descAlignY=63" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1220,45:0D2A52,100:0E4C92&text=Sujay%20V%20Kulkarni&fontSize=48&fontColor=E6EDF3&animation=twinkling&desc=AI%2FML%20%7C%20LLMs%20%7C%20Quantum%20Computing&descAlignY=64" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=960&lines=Founder+%40+Goodwinsun+%7C+DevOps+%26+Cloud+Engineer+%40+Sriaranea;Building+TAARA%2C+VAMANA%2C+and+LLM+reliability+systems;Nyaya+in+reasoning.+Tantra+in+systems.+Prayoga+in+execution" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=980&lines=Founder+%40+Goodwinsun+%7C+DevOps+%26+Cloud+Engineer+%40+Sriaranea;Building+compact+edge+LLM+systems+with+real-world+deployment+focus;VAMANA%2C+TAARA%2C+and+reliability+work+that+ships" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-LLM%20Reliability%20%7C%20Security%20AI%20%7C%20Edge%20Inference-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Bengaluru-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%7C%20LLMs%20%7C%20Quantum%20Computing-0D1117?style=for-the-badge&labelColor=111827&color=1f6feb" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru-0D1117?style=for-the-badge&labelColor=111827&color=2563eb" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Current-B.Tech%20(Hons)%20CSE%20(AI%20%26%20ML)%20%7C%20RV%20University-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Expected%20Graduation-2027-111827?style=flat-square" />
 </p>
 
 ## Core Profile
@@ -18,26 +23,28 @@
 - DevOps & Cloud Engineer at **Sriaranea**
 - President, **RUDRA Data Science Club** · Vice Chair, **IEEE Student Branch**
 
-## Current Work
+## Project Status
 
-- [TAARA](https://github.com/SujayKulkarni-2211/taaraiepd): trajectory-aware novelty detection for security operations
-- [VAMANA](https://github.com/SujayKulkarni-2211/vamana): compact edge LLM deployment with quantized inference
-- [MetricDrivenAdaptiveTemperatureScaling](https://github.com/SujayKulkarni-2211/MetricDrivenAdaptiveTemperatureScaling): adaptive decoding research for hallucination control
+### Building Now
 
-## Selected Repositories
+- [VAMANA](https://github.com/SujayKulkarni-2211/vamana): compact edge LLM deployment stack with quantized inference and deployment-first design.
+- [MetricDrivenAdaptiveTemperatureScaling](https://github.com/SujayKulkarni-2211/MetricDrivenAdaptiveTemperatureScaling): decoding-control research for reducing hallucinations through metric-conditioned temperature tuning.
+- [TAARA](https://github.com/SujayKulkarni-2211/taaraiepd): trajectory-aware novelty detection engine for operations and anomaly monitoring pipelines.
 
-- [granty](https://github.com/SujayKulkarni-2211/granty)
-- [sainya](https://github.com/SujayKulkarni-2211/sainya)
-- [WARUNA](https://github.com/SujayKulkarni-2211/WARUNA)
-- [atreyaq](https://github.com/SujayKulkarni-2211/atreyaq)
-- [yaqsha](https://github.com/SujayKulkarni-2211/yaqsha)
-- [naimisharanya](https://github.com/SujayKulkarni-2211/naimisharanya)
+### Built / Shipped
+
+- [granty](https://github.com/SujayKulkarni-2211/granty): practical build focused on grant discovery and execution workflow support.
+- [sainya](https://github.com/SujayKulkarni-2211/sainya): systems-oriented implementation for structured automation and operational tooling.
+- [WARUNA](https://github.com/SujayKulkarni-2211/WARUNA): production-style engineering project emphasizing reliability and usable architecture.
+- [atreyaq](https://github.com/SujayKulkarni-2211/atreyaq): experimentation-focused repo for AI workflows and applied model utility.
+- [yaqsha](https://github.com/SujayKulkarni-2211/yaqsha): modular project exploring agentic and LLM-driven task execution patterns.
+- [naimisharanya](https://github.com/SujayKulkarni-2211/naimisharanya): sandbox-style build for iterative research ideas and fast prototyping.
 
 ## Research
 
-- Quantum entropy methods for generative reliability
-- Metric-conditioned temperature prediction for neural text generation
 - Efficient domain LLMs for constrained devices
+- Metric-conditioned temperature prediction for neural text generation
+- Quantum entropy methods for generative reliability
 - Publication links will be added as releases go live
 
 ## Coding Philosophy
