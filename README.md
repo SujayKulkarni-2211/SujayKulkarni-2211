@@ -1,56 +1,54 @@
+<h1 align="center">Sujay V Kulkarni</h1>
+<p align="center">AI/ML Systems · Security Engineering · Research</p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0D1117,100:0D1117&text=Sujay%20V%20Kulkarni&fontColor=22d3ee&fontSize=46&desc=AI%20Systems%20%7C%20Cyber%20Engineering%20%7C%20Research&descAlignY=68" />
+  <a href="https://www.linkedin.com/in/sujay-kulkarni-51391b286/">LinkedIn</a> ·
+  <a href="mailto:sujaykulkarni2211@gmail.com">Email</a> ·
+  <a href="https://github.com/SujayKulkarni-2211">GitHub</a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=920&lines=Nyaya+for+reasoning.+Tantra+for+systems.+Shakti+for+execution.;Founder+%40+Goodwinsun+%7C+DevOps+%26+Cloud+%40+Sriaranea;Building+TAARA%2C+VAMANA%2C+and+next-gen+LLM+reliability+systems" />
+  Founder @ <a href="https://github.com/SujayKulkarni-2211/goodwinsun">Goodwinsun</a> · DevOps & Cloud @ Sriaranea
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Now-TAARA%20%7C%20VAMANA%20%7C%20LLM%20Reliability-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Approach-Rigor%20x%20Scale%20x%20Impact-111827?style=for-the-badge" />
-</p>
+## Current Build
 
-## Current Work
-
-- [TAARA](https://github.com/SujayKulkarni-2211/taaraiepd): trajectory-aware novelty detection for cybersecurity operations
-- [VAMANA](https://github.com/SujayKulkarni-2211/vamana): compact edge LLM deployment with quantized inference
+- [TAARA](https://github.com/SujayKulkarni-2211/taaraiepd): trajectory-aware novelty detection for security operations
+- [VAMANA](https://github.com/SujayKulkarni-2211/vamana): edge LLM stack with quantized on-device inference
 - [MetricDrivenAdaptiveTemperatureScaling](https://github.com/SujayKulkarni-2211/MetricDrivenAdaptiveTemperatureScaling): adaptive decoding research for hallucination control
 
 ## Selected Systems
 
-- [granty](https://github.com/SujayKulkarni-2211/granty): AI-driven document and grant pipeline
-- [sainya](https://github.com/SujayKulkarni-2211/sainya): strategy-driven deep learning intuition game
-- [WARUNA](https://github.com/SujayKulkarni-2211/WARUNA): civic water reporting and response workflow
-- [atreyaq](https://github.com/SujayKulkarni-2211/atreyaq): quantum-led molecular simulation concepts
-- [yaqsha](https://github.com/SujayKulkarni-2211/yaqsha): high-dimensional anomaly and fraud analysis
-- [naimisharanya](https://github.com/SujayKulkarni-2211/naimisharanya): narrative-centered mental wellness AI
+- [granty](https://github.com/SujayKulkarni-2211/granty)
+- [sainya](https://github.com/SujayKulkarni-2211/sainya)
+- [WARUNA](https://github.com/SujayKulkarni-2211/WARUNA)
+- [atreyaq](https://github.com/SujayKulkarni-2211/atreyaq)
+- [yaqsha](https://github.com/SujayKulkarni-2211/yaqsha)
+- [naimisharanya](https://github.com/SujayKulkarni-2211/naimisharanya)
 
-## Research Vector
+## Coding Philosophy
 
-- Quantum entropy methods for generative reliability
-- Metric-conditioned temperature prediction for text generation
-- Efficient domain LLMs for constrained devices
+> Nyaya (clarity of reasoning) -> Tantra (system design) -> Prayoga (execution in production).
 
-Publication links are in pipeline and will be added once finalized.
+Now playing while building: **"Ninna Olumeyinda" - Raichur Sheshagiri Dasaru**
 
-## Roles
+## Signal
 
-- Founder / AI Research Engineer, [Goodwinsun](https://github.com/SujayKulkarni-2211/goodwinsun)
-- DevOps & Cloud Engineer, Sriaranea
-- President, RUDRA Data Science Club
-- Vice Chair, IEEE Student Branch
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SujayKulkarni-2211&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SujayKulkarni-2211&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SujayKulkarni-2211&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujayKulkarni-2211&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&hide_border=true" />
+</p>
 
 ## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,fastapi,flask,docker,kubernetes,postgres,mysql,linux,bash,git,github,githubactions,tensorflow,pytorch&perline=10" />
-</p>
-
-## Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sujay-kulkarni-51391b286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sujaykulkarni2211@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/SujayKulkarni-2211"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
