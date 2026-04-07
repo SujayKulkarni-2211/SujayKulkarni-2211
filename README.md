@@ -44,7 +44,29 @@
 
 > Precision in thought. Discipline in architecture. Velocity in execution.
 
-Now playing while coding: **Ninna Olumeyinda — Raichur Sheshagiri Dasaru**
+## Now Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/search/Ninna%20Olumeinda%20Raichur%20Sheshagiri%20Dasaru">
+    <img src="https://img.shields.io/badge/NOW%20PLAYING-Ninna%20Olumeinda-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/search/Ninna%20Olumeinda%20Raichur%20Sheshagiri%20Dasaru">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <a href="https://music.apple.com/in/search?term=ninna%20olumeinda%20raichur%20sheshagiri%20dasaru">
+    <img src="https://img.shields.io/badge/Apple%20Music-FA243C?style=for-the-badge&logo=applemusic&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/results?search_query=ninna+olumeinda+raichur+sheshagiri+dasaru">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Track: <b>Ninna Olumeinda / Ninna Olumeyinda</b> · Raichur Sheshagiri Dasaru</sub>
+</p>
 
 ## Analytics
 
