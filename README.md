@@ -1,23 +1,30 @@
-<h1 align="center">Sujay V Kulkarni</h1>
-<p align="center">AI/ML Systems · Security Engineering · Research</p>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/sujay-kulkarni-51391b286/">LinkedIn</a> ·
-  <a href="mailto:sujaykulkarni2211@gmail.com">Email</a> ·
-  <a href="https://github.com/SujayKulkarni-2211">GitHub</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1220,100:0E4C92&text=Sujay%20V%20Kulkarni&fontSize=46&fontColor=E6EDF3&animation=twinkling&desc=AI%20Systems%20%7C%20Security%20%7C%20Research&descAlignY=63" />
 </p>
 
 <p align="center">
-  Founder @ <a href="https://github.com/SujayKulkarni-2211/goodwinsun">Goodwinsun</a> · DevOps & Cloud @ Sriaranea
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=960&lines=Founder+%40+Goodwinsun+%7C+DevOps+%26+Cloud+Engineer+%40+Sriaranea;Building+TAARA%2C+VAMANA%2C+and+LLM+reliability+systems;Nyaya+in+reasoning.+Tantra+in+systems.+Prayoga+in+execution" />
 </p>
 
-## Current Build
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-LLM%20Reliability%20%7C%20Security%20AI%20%7C%20Edge%20Inference-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru-0D1117?style=for-the-badge" />
+</p>
+
+## Core Profile
+
+- B.Tech (Hons) CSE (AI & ML), RV University (Expected 2027)
+- Founder / AI Research Engineer at **Goodwinsun**
+- DevOps & Cloud Engineer at **Sriaranea**
+- President, **RUDRA Data Science Club** · Vice Chair, **IEEE Student Branch**
+
+## Current Work
 
 - [TAARA](https://github.com/SujayKulkarni-2211/taaraiepd): trajectory-aware novelty detection for security operations
-- [VAMANA](https://github.com/SujayKulkarni-2211/vamana): edge LLM stack with quantized on-device inference
+- [VAMANA](https://github.com/SujayKulkarni-2211/vamana): compact edge LLM deployment with quantized inference
 - [MetricDrivenAdaptiveTemperatureScaling](https://github.com/SujayKulkarni-2211/MetricDrivenAdaptiveTemperatureScaling): adaptive decoding research for hallucination control
 
-## Selected Systems
+## Selected Repositories
 
 - [granty](https://github.com/SujayKulkarni-2211/granty)
 - [sainya](https://github.com/SujayKulkarni-2211/sainya)
@@ -26,13 +33,20 @@
 - [yaqsha](https://github.com/SujayKulkarni-2211/yaqsha)
 - [naimisharanya](https://github.com/SujayKulkarni-2211/naimisharanya)
 
+## Research
+
+- Quantum entropy methods for generative reliability
+- Metric-conditioned temperature prediction for neural text generation
+- Efficient domain LLMs for constrained devices
+- Publication links will be added as releases go live
+
 ## Coding Philosophy
 
-> Nyaya (clarity of reasoning) -> Tantra (system design) -> Prayoga (execution in production).
+> Precision in thought. Discipline in architecture. Velocity in execution.
 
-Now playing while building: **"Ninna Olumeyinda" - Raichur Sheshagiri Dasaru**
+Now playing while coding: **Ninna Olumeyinda — Raichur Sheshagiri Dasaru**
 
-## Signal
+## Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SujayKulkarni-2211&theme=github-dark-blue&hide_border=true" />
@@ -44,11 +58,19 @@ Now playing while building: **"Ninna Olumeyinda" - Raichur Sheshagiri Dasaru**
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujayKulkarni-2211&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujayKulkarni-2211&bg_color=0d1117&color=58a6ff&line=79c0ff&point=e6edf3&hide_border=true" />
 </p>
 
 ## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,fastapi,flask,docker,kubernetes,postgres,mysql,linux,bash,git,github,githubactions,tensorflow,pytorch&perline=10" />
+</p>
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sujay-kulkarni-51391b286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sujaykulkarni2211@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/SujayKulkarni-2211"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
